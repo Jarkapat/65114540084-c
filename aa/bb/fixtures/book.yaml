@@ -1,0 +1,6 @@
+- model: bb.cview
+  pk : 1
+  fields :
+    cid : 1 
+    cname : eng
+    tname : team
